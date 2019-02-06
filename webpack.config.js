@@ -1,6 +1,6 @@
 var path = require("path");
 module.exports = {
-  entry: path.resolve(__dirname, "src/app.jsx"),
+  entry: path.resolve(__dirname, "src/index.jsx"),
   output: {
     path: __dirname,
     filename: "bundle.js"

@@ -4,7 +4,8 @@
   "description": "A react boilerplate for webpack with babel-loader",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
   },
   "author": "Nikhil Mohadikar",
   "license": "ISC",
